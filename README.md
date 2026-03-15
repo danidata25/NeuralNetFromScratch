@@ -1,4 +1,4 @@
-# NeuralNetFromScratch 🧠
+# NeuralNetFromScratch
 
 A fully manual implementation of a deep neural network (DNN) built from scratch using **NumPy and PyTorch tensors**, trained on the **MNIST** handwritten digit classification dataset.
 
@@ -90,8 +90,8 @@ jupyter notebook deep_learning_hw1.ipynb
 
 ```
 NeuralNetFromScratch/
-├── deep_learning_hw1.ipynb   # Main notebook
-├── requirements.txt          # Dependencies
-├── .gitignore                # Git ignore rules
-└── README.md                 # This file
+├── deep_learning_hw1.ipynb
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
